@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-boxes/static/css/main.4c9f36d8.css",
+    "main.js": "/color-boxes/static/js/main.8dd83783.js",
+    "static/js/787.ddb3243a.chunk.js": "/color-boxes/static/js/787.ddb3243a.chunk.js",
+    "index.html": "/color-boxes/index.html",
+    "main.4c9f36d8.css.map": "/color-boxes/static/css/main.4c9f36d8.css.map",
+    "main.8dd83783.js.map": "/color-boxes/static/js/main.8dd83783.js.map",
+    "787.ddb3243a.chunk.js.map": "/color-boxes/static/js/787.ddb3243a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c9f36d8.css",
+    "static/js/main.8dd83783.js"
+  ]
+}
